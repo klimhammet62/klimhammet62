@@ -7,7 +7,7 @@
 - 🎉 I am constantly learning new things
 
 ### Connect with me:
-[<img align="left" alt="React" width="22px" src="https://hh.ru/resume/063971beff091387e20039ed1f6e525652364" />][my vacancy]
+[<img align="left" alt="React" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />][my vacancy]
 [<img align="left" alt="ArtemiyBelkin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
