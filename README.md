@@ -1,7 +1,24 @@
 ![Header](https://github.com/klimhammet62/klimhammet62/blob/main/assets/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA%20(2).gif)
 
 ### Hi there 👋, I'm Artemiy. 
-My stack is ReactJS. My skills: ReactJS, Typescript, Redux, Material/AntDesign/Bootstrap UI, Firebase.
+
+😶Frontend:
+TypeScript, JavaScript (ES6+)
+ReactJS
+Redux
+React Hook Form
+ESLint, Prettier
+SCSS / styled-components / CSS Modules
+Material UI, Twitter Bootstrap, Ant Design
+Webpack
+
+🗻Из backend:
+Node.JS
+WebSocket
+
+⛷Другие скиллы:
+Git / GitHub
+BEM (CSS)
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
