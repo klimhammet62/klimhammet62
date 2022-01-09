@@ -5,18 +5,18 @@
 😶Frontend:
 TypeScript, JavaScript (ES6+)
 ReactJS
-Redux
-React Hook Form
+Redux/Redux-thunk
+React Hook Form/Formik
 ESLint, Prettier
 SCSS / styled-components / CSS Modules
 Material UI, Twitter Bootstrap, Ant Design
 Webpack
 
-🗻Из backend:
-Node.JS
+⛰Backend:
+Node.JS / ExpressJS
 WebSocket
 
-⛷Другие скиллы:
+✨Other skills:
 Git / GitHub
 BEM (CSS)
 
