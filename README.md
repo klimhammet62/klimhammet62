@@ -31,7 +31,6 @@ WebSocket
 ✨**Other skills**:
 <br />
 Git / GitHub
-
 BEM (CSS)
 
 ## I'm a FrontEnd Developer
