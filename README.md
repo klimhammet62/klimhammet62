@@ -2,22 +2,36 @@
 
 ### Hi there 👋, I'm Artemiy. 
 
-😶Frontend:
+😶**Frontend**:
+<br /> 
 TypeScript, JavaScript (ES6+)
+<br /> 
 ReactJS
+<br />
 Redux/Redux-thunk
+<br /> 
 React Hook Form/Formik
+<br />
 ESLint, Prettier
+<br />
 SCSS / styled-components / CSS Modules
+<br />
 Material UI, Twitter Bootstrap, Ant Design
+<br />
 Webpack
-
-⛰Backend:
+<br />
+<br />
+⛰**Backend**:
+<br />
 Node.JS / ExpressJS
+<br />
 WebSocket
-
-✨Other skills:
+<br />
+<br />
+✨**Other skills**:
+<br />
 Git / GitHub
+
 BEM (CSS)
 
 ## I'm a FrontEnd Developer
