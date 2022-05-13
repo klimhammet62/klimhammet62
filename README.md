@@ -35,7 +35,7 @@ BEM (CSS)
 - 💪 I like to write code
 - 🥅 I love sport
 - 🎉 I am constantly learning new things
-
+//MYPETPROJECTS
 ### Connect with me:
 [<img align="left" alt="React" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />][my vacancy]
 [<img align="left" alt="ArtemiyBelkin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
