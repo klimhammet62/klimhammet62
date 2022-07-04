@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Artemiy. 
- **MYPETPROJECTS**
+My pets: 
+ https://github.com/klimhammet62/blog - Blog. <details>Server: Express+Nest. Front: React+Typescript.</details>
+ https://github.com/klimhammet62/ecommerce - E-Commerce goods site. <details>Server: JSON-Server. Front: React+Typescript.</details>
 😶**Frontend**:
 <br /> 
 TypeScript, JavaScript (ES6+)
