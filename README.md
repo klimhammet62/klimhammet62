@@ -35,9 +35,6 @@ WebSocket
 Git / GitHub
 BEM (CSS)
 
-## I'm a FrontEnd Developer
-- 🎉 But i am constantly learning new things in backend (NodeJS, NestJS, GraphQL, Apollo etc)
-
 ### Connect with me:
 [<img align="left" alt="React" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />][my vacancy]
 [<img align="left" alt="ArtemiyBelkin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
