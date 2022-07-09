@@ -10,7 +10,8 @@ TypeScript, JavaScript (ES6+)
 <br /> 
 ReactJS
 <br />
-Redux/Redux-thunk
+Redux / RTK / MobX
+RTK query / React Query
 <br /> 
 React Hook Form/Formik
 <br />
