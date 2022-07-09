@@ -16,9 +16,9 @@ React Hook Form/Formik
 <br />
 ESLint, Prettier
 <br />
-SCSS / styled-components / CSS Modules
+SCSS / Modules / TailwindCSS 
 <br />
-Material UI, Twitter Bootstrap, Ant Design
+Material UI / Bootstrap / Ant Design / Headless UI
 <br />
 Webpack
 <br />
