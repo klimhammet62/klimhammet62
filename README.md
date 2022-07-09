@@ -8,7 +8,7 @@ My pets: </br>
 <br /> 
 TypeScript, JavaScript (ES6+)
 <br /> 
-ReactJS
+ReactJS / NextJS
 <br />
 Redux / RTK / MobX <br /> 
 RTK query / React Query
@@ -26,9 +26,9 @@ Webpack
 <br />
 ⛰**Backend**:
 <br />
-Node.JS / ExpressJS
+NestJS / ExpressJS
 <br />
-WebSocket
+WebSockets
 <br />
 <br />
 ✨**Other skills**:
