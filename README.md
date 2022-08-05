@@ -60,7 +60,7 @@ BEM (CSS)
 [vk]: https://vk.com/belarty
 [my vacancy]: https://hh.ru/resume/063971beff091387e20039ed1f6e5256523647
 <br />
-
+![](https://komarev.com/ghpvc/?username=klimhammet62)
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimhammet62&langs_count=8&layout=compact&theme=dark" />
