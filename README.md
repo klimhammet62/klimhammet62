@@ -6,7 +6,7 @@ My Projects: </br>
 </br>
   https://github.com/klimhammet62/advanced-filter - Goods Filtration
   <details><summary>:dog: Technologies and photos:</summary>Server: JSON. Front: Next+Typescript, TailwindCSS.</details>
-</br>😶
+</br>
 ##### Frontend:
 <br /> 
 TypeScript, JavaScript (ES6+)
@@ -27,7 +27,7 @@ Material UI / Bootstrap / Ant Design / Headless UI
 Webpack
 <br />
 <br />
-⛰
+
 ##### Backend:
 <br />
 NestJS / ExpressJS
