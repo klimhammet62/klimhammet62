@@ -5,11 +5,10 @@ My Projects: </br>
  https://github.com/klimhammet62/ecommerce - E-Commerce goods site. <details><summary> Technologies and photos:</summary>Server: JSON-Server. Front: React+Typescript, SCSS.</details>
 </br>
   https://github.com/klimhammet62/advanced-filter - Goods Filtration
-  <details><summary>:dog: Technologies and photos:</summary>Server: JSON. Front: Next+Typescript, TailwindCSS.</details>
+  <details><summary>Technologies and photos:</summary>Server: JSON. Front: Next+Typescript, TailwindCSS.</details>
 </br>
 
 ##### Frontend:
-<br /> 
 TypeScript, JavaScript (ES6+)
 <br /> 
 ReactJS / NextJS
@@ -30,7 +29,6 @@ Webpack
 <br />
 
 ##### Backend:
-<br />
 NestJS / ExpressJS
 <br />
 WebSockets
