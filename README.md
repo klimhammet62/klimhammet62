@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Artemiy. 
-My pets: </br>
- https://github.com/klimhammet62/blog - Blog. <details><summary>:dog: Technologies and photos:</summary>Server: Express+Nest. Front: React+Typescript.</details> 
+My Projects: </br>
+ https://github.com/klimhammet62/blog - Blog. <details><summary> Technologies and photos:</summary>Server: Express+Nest. Front: React+Typescript.</details> 
  </br>
- https://github.com/klimhammet62/ecommerce - E-Commerce goods site. <details><summary>:dog: Technologies and photos:</summary>Server: JSON-Server. Front: React+Typescript, SCSS.</details>
+ https://github.com/klimhammet62/ecommerce - E-Commerce goods site. <details><summary> Technologies and photos:</summary>Server: JSON-Server. Front: React+Typescript, SCSS.</details>
 </br>
   https://github.com/klimhammet62/advanced-filter - Goods Filtration
   <details><summary>:dog: Technologies and photos:</summary>Server: JSON. Front: Next+Typescript, TailwindCSS.</details>
 </br>
-😶**Frontend**:
+😶##### Frontend*=:
 <br /> 
 TypeScript, JavaScript (ES6+)
 <br /> 
@@ -27,7 +27,7 @@ Material UI / Bootstrap / Ant Design / Headless UI
 Webpack
 <br />
 <br />
-⛰**Backend**:
+⛰ ##### Backend:
 <br />
 NestJS / ExpressJS
 <br />
