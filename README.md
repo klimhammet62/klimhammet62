@@ -6,9 +6,8 @@ My Projects: </br>
 </br>
   https://github.com/klimhammet62/advanced-filter - Goods Filtration
   <details><summary>Technologies and photos:</summary>Server: JSON. Front: Next+Typescript, TailwindCSS.</details>
-</br>
 
-##### Frontend:
+#### Frontend:
 TypeScript, JavaScript (ES6+)
 <br /> 
 ReactJS / NextJS
@@ -28,7 +27,7 @@ Webpack
 <br />
 <br />
 
-##### Backend:
+#### Backend:
 NestJS / ExpressJS
 <br />
 WebSockets
