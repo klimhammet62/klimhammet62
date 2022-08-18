@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Artemiy. 
 My Projects: </br>
- https://github.com/klimhammet62/blog - Blog. <details><summary> Technologies and photos:</summary>Server: Express+Nest. Front: React+Typescript.</details> 
+ https://github.com/klimhammet62/blog - Blog. <details><summary> Technologies and photos:</summary>Server: NodeJS+Express. Front: React+Typescript.</details> 
  </br>
  https://github.com/klimhammet62/ecommerce - E-Commerce goods site. <details><summary> Technologies and photos:</summary>Server: JSON-Server. Front: React+Typescript, SCSS.</details>
 </br>
