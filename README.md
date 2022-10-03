@@ -1,11 +1,4 @@
 ### Hi there 👋, I'm Artemiy. 
-My Projects: </br>
- https://github.com/klimhammet62/blog - Blog. <details><summary> Technologies and photos:</summary>Server: NodeJS+Express. Front: React+Typescript.</details> 
- </br>
- https://github.com/klimhammet62/ecommerce - E-Commerce goods site. <details><summary> Technologies and photos:</summary>Server: JSON-Server. Front: React+Typescript, SCSS.</details>
-</br>
-  https://github.com/klimhammet62/advanced-filter - Goods Filtration
-  <details><summary>Technologies and photos:</summary>Server: JSON. Front: Next+Typescript, TailwindCSS.</details>
 
 #### Frontend:
 TypeScript, JavaScript (ES6+)
@@ -38,6 +31,10 @@ WebSockets
 Git / GitHub
 BEM (CSS)
 
+My Projects: </br>
+  https://github.com/klimhammet62/advanced-filter - Goods Filtration
+  <details><summary>Technologies and photos:</summary>Server: JSON. Front: Next+Typescript, TailwindCSS.</details>
+  
 ### Connect with me:
 [<img align="left" alt="React" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />][my vacancy]
 [<img align="left" alt="ArtemiyBelkin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
