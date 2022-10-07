@@ -3,7 +3,7 @@
 #### Frontend:
 TypeScript, JavaScript (ES6+)
 <br /> 
-ReactJS / NextJS
+ReactJS / NextJS / SolidJS
 <br />
 Redux / RTK / MobX <br /> 
 RTK query / React Query
@@ -16,12 +16,13 @@ SCSS / Modules / TailwindCSS
 <br />
 Material UI / Bootstrap / Ant Design / Headless UI
 <br />
-Webpack
+Vite / Webpack
 <br />
+RESTApi / GraphQL | Apollo
 <br />
 
 #### Backend:
-NestJS / ExpressJS
+NodeJS / ExpressJS
 <br />
 WebSockets
 <br />
