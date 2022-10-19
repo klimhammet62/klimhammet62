@@ -3,7 +3,7 @@
 #### Frontend:
 TypeScript, JavaScript (ES6+)
 <br /> 
-ReactJS / NextJS / SolidJS
+ReactJS / React-Native / NextJS / SolidJS
 <br />
 Redux / RTK / MobX <br /> 
 RTK query / React Query
