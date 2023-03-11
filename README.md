@@ -33,7 +33,7 @@ Git
 
 
 ### Connect with me:
-[<img align="left" alt="ArtemiyBelkin | telegram" width="22px" src="https://img2.freepng.ru/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" />][tg]
+[<img align="left" alt="ArtemiyBelkin | telegram" width="22px" src="https://mskvos.ru/image/catalog/teleg_ico.png" />][tg]
 [<img align="left" alt="ArtemiyBelkin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
