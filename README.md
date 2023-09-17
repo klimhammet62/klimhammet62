@@ -1,43 +1,13 @@
-#### Frontend:
 TypeScript, JavaScript (ES6+)
-<br /> 
-ReactJS / React-Native / NextJS / SolidJS
-<br />
-Redux / RTK / MobX 
-<br /> 
-RTK query / React Query
-<br /> 
-React Hook Form / Formik
-<br />
 ESLint, Prettier
-<br />
-SCSS / Modules / TailwindCSS 
-<br />
-Material UI / Bootstrap / Ant Design / Headless UI
-<br />
-Vite / Webpack
-<br />
-REST / GraphQL
-<br />
-
-#### Backend:
-NodeJS / ExpressJS
-<br />
-WebSockets
-<br />
-<br />
-✨**Other skills**:
-<br />
-GitHub / GitLab
+Vite
 Git
-
 
 ### Connect with me:
 [<img align="left" alt="ArtemiyBelkin | telegram" width="22px" src="https://mskvos.ru/image/catalog/teleg_ico.png" />][tg]
 [<img align="left" alt="ArtemiyBelkin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
-
 
 [vk]: https://vk.com/belarty
 [tg]: https://t.me/abelarty
