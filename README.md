@@ -1,6 +1,9 @@
 TypeScript, JavaScript (ES6+)
+<br />
 ESLint, Prettier
+<br />
 Vite
+<br />
 Git
 
 ### Connect with me:
